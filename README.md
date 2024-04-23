@@ -5,4 +5,4 @@
 - Hobbies: Running👟, Biking🚲, Hanging Out with Friends, Video Games🎮, Anime📺
 - Favorite Movie: Spider-Man Across the Spider-Verse
 ### 📫[Email](mailto:gabek964@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/gabriel-kiveu) 
-(https://skillicons.dev/icons?i=java,eclipse,c,&theme=dark)](https://skillicons.dev)
+[](https://skillicons.dev/icons?i=java,eclipse,c,&theme=dark)](https://skillicons.dev)
