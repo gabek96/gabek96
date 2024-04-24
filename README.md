@@ -4,6 +4,8 @@
 - Hobbies: Running👟, Biking🚲, Hanging Out with Friends, Video Games🎮, Anime📺
 - Favorite Movie: Spider-Man Across the Spider-Verse
 ### 📫[Email](mailto:gabek964@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/gabriel-kiveu) 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+
 _______
 
 | 📚 **School-Related Coursework & Projects** |🖥 **Personal Projects** | 
@@ -14,6 +16,8 @@ _______
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,&theme=dark)](https://skillicons.dev)
+
+
 _______
 <p align="center">
   <img src="https://img.wattpad.com/2e56674bf8cfe74588f3f7ffc3ac0fc2636697d9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f31536e79364b66454f4162426a773d3d2d313334303439343134312e313735633163383239353437333866623532323030303439343530352e676966?s=fit&w=720&h=720" alt="Your gif" height="185"/><img src="https://spotify-recently-played-readme.vercel.app/api?user=68u6usvjbxg0r5uiy0ujhcka8&count=3&width=500" height="250" width="670"/>  
