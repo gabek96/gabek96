@@ -6,7 +6,7 @@
 ### 📫[Email](mailto:gabek964@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/gabriel-kiveu) 
 _______
 
-| 📚 **Relevant Coursework** |🖥 **Personal Projects** | 
+| 📚 **School-Related Coursework & Projects** |🖥 **Personal Projects** | 
 | :------------------: | :-------------------: | 
 | <a href="https://github.com/gabek96/COM-S-228"><b>***Data Structures & Algorithms***</b></a> | <a href ="https://github.com/gabek96/My-2D-Game"><b>***Java 2D Game***</b></a> 
 | <a href="https://github.com/gabek96/SE-185">***SE-185 Labs & Other Work***</a> |  <a href="https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif"> |  <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf">
