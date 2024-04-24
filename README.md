@@ -9,7 +9,7 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabek96)](https://github.com/gabek96/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabek96&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/gabek96/github-readme-stats#gh-dark-mode-only)
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
