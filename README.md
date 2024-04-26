@@ -4,7 +4,7 @@
 - Hobbies: Running👟, Biking🚲, Hanging Out with Friends, Video Games🎮, Anime📺
 - Favorite Movie: Spider-Man Across the Spider-Verse
 ### 📫[Email](mailto:gabek964@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/gabriel-kiveu) 
- [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68u6usvjbxg0r5uiy0ujhcka8&cover_image=false&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=00d192&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=68u6usvjbxg0r5uiy0ujhcka8&redirect=true)  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 
 <details>
   <summary>Github Stats ⚡</summary>
