@@ -16,7 +16,7 @@ _______
 
 | 📚 **School-Related Coursework** |🖥 **School/Personal Projects** | 
 | :------------------: | :-------------------: | 
-| <a href="https://github.com/gabek96/COM-S-228"><b>***Data Structures & Algorithms***</b></a> | <a href ="https://github.com/gabek96/My-2D-Game"><b>***Java 2D Game***</b></a> 
+| <a href="https://github.com/gabek96/COM-S-228"><b>***Data Structures & Algorithms***</b></a> | <a href ="https://github.com/gabek96/My-2D-Game"><b>***One Step***</b></a> 
 | <a href="https://github.com/gabek96/SE-185">***SE-185 Labs & Lecture Code***</a> | <a href="https://github.com/gabek96/CPR-E-281-Final-Project">***Time Counter***</a> |
 | <a href="https://github.com/gabek96/CPR-E-281">***Digital Logic Coursework***</a> |  
 
