@@ -19,9 +19,10 @@ _______
 | <a href="https://github.com/gabek96/COM-S-228"><b>***Data Structures & Algorithms***</b></a> | <a href ="https://github.com/gabek96/My-2D-Game"><b>***One Step***</b></a> 
 | <a href="https://github.com/gabek96/SE-185">***SE-185 Labs & Lecture Code***</a> | <a href="https://github.com/gabek96/CPR-E-281-Final-Project">***Time Counter***</a> |
 | <a href="https://github.com/gabek96/CPR-E-281">***Digital Logic Coursework***</a> |  
+|<a href="https://github.com/gabek96/SE-319">***Construction of User Interfaces***</a>|
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,javascript,css,html,eclipse,git,idea,postman,vscode,&theme=dark)](https://skillicons.dev)
 
 
 _______
