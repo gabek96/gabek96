@@ -1,3 +1,5 @@
+# Welcome to my Github!
+- **I'm Gabriel Kiveu**, I am a Software Engineering student studying at Iowa State University
 - Interested in Software Development🖥
 - Want to dive into learning more about Unity and Unreal Engine🎮
 - Currently learning Java and  Verilog
