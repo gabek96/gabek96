@@ -1,9 +1,8 @@
 # Welcome to my Github!
 - **I'm Gabriel Kiveu**, I am a Software Engineering student studying at Iowa State University
-- Interested in Software Development🖥
-- Want to dive into learning more about Unity and Unreal Engine🎮
-- Currently learning Java and  Verilog
-- Hobbies: Running👟, Biking🚲, Hanging Out with Friends, Video Games🎮, Anime📺
+- Interested in the field of Software Development🖥
+- Currently learning JavaScript, HTML, CSS, and Java
+- Hobbies: Running👟, Biking🚲, Hanging Out with Friends, Reading📓 Video Games🎮, Anime📺
 - Favorite Movie: Spider-Man Across the Spider-Verse
 ### 📫[Email](mailto:gabek964@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/gabriel-kiveu) 
 
