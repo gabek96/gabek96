@@ -1,10 +1,12 @@
-# Welcome to my Github!
-- **I'm Gabriel Kiveu**, I am a Software Engineering student studying at Iowa State University
+# Hi! My name is Gabriel Kiveu
+- I am a Software Engineering student studying at Iowa State University
 - Interested in the field of Software Development🖥
 - Currently learning JavaScript, HTML, CSS, and Java
 - Hobbies: Running👟, Biking🚲, Hanging Out with Friends, Reading📓, Video Games🎮, Anime📺
 - Favorite Movie: Spider-Man Across the Spider-Verse
-### 📫[Email](mailto:gabek964@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/gabriel-kiveu) 
+
+<a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/></a>
+<a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank"><img src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=email&logoColor=white" width="107"/></a>
 
 <details>
   <summary>Github Stats ⚡</summary>
