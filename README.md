@@ -6,7 +6,7 @@
 - Favorite Movie: Spider-Man Across the Spider-Verse
 
 <a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/></a>
-<a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank"><img src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=email&logoColor=white" width="107"/></a>
+<a href="https://gabek96.github.io/personal/" target="_blank"><img src="https://img.shields.io/badge/Website-eb4034?style=for-the-badge&logo=email&logoColor=white" width="136"/></a>
 
 <details>
   <summary>Github Stats ⚡</summary>
