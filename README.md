@@ -15,7 +15,7 @@ _______
 | <a href="https://github.com/gabek96/COM-S-228"><b>***Data Structures & Algorithms***</b></a> | <a href ="https://github.com/gabek96/My-2D-Game"><b>***One Step***</b></a> 
 | <a href="https://github.com/gabek96/SE-185">***SE-185 Labs & Lecture Code***</a> | <a href="https://github.com/gabek96/CPR-E-281-Final-Project">***Time Counter***</a> |
 | <a href="https://github.com/gabek96/CPR-E-281">***Digital Logic Coursework***</a> | <a href="https://gabek96.github.io/Top-Shelf/">***Top Shelf***</a>
-|<a href="https://github.com/gabek96/SE-319">***Construction of User Interfaces***</a>| <a href="https://gabek96.github.io/Cy-Hill/">***Cy-Hill***</a>
+|<a href="https://github.com/gabek96/SE-319">***Construction of User Interfaces***</a>| <a href="https://github.com/gabek96/Cy-Hill/">***Cy-Hill***</a>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,javascript,css,html,eclipse,git,idea,postman,vscode,react,&theme=dark)](https://skillicons.dev)
