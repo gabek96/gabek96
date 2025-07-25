@@ -17,7 +17,7 @@ _______
 |<a href="https://github.com/gabek96/SE-319">***Construction of User Interfaces***</a>| <a href="https://github.com/gabek96/Cy-Hill/">***Cy-Hill***</a>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,javascript,css,html,eclipse,git,idea,postman,vscode,react,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,php,javascript,css,html,eclipse,git,idea,postman,vscode,react,&theme=dark)](https://skillicons.dev)
 
 
 _______
