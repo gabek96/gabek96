@@ -28,7 +28,7 @@ Customer problem analysis in event planning | AR/VR systems | Cloud architecture
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,c,php,javascript,css,html,python,react,nodejs,aws,mysql,git,linux,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
-**Also working with:** LibCal API · Multithreaded Programming · Database Management · Network Administration
+**Also working with:** Multithreaded Programming · Database Management · Network Administration
 
 ---
 
