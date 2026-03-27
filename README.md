@@ -2,6 +2,15 @@
 
 ### Senior Software Engineering Student @ Iowa State University | May 2026 🎓
 Building production web apps, leading NSBE programs, and exploring AR/VR tech at the Student Innovation Center.
+## 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://gabek96.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-eb4034?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
@@ -56,18 +65,6 @@ Customer problem analysis in event planning | AR/VR systems | Cloud architecture
 
 <p align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=68u6usvjbxg0r5uiy0ujhcka8&count=3&width=600" alt="Spotify Recently Played"/>
-</p>
-
----
-
-## 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://gabek96.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-eb4034?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 ---
