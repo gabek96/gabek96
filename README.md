@@ -58,7 +58,7 @@ Customer problem analysis in event planning | AR/VR systems | Cloud architecture
 | [**Top Shelf**](https://gabek96.github.io/Top-Shelf/) | Web application |
 | [**Cy-Hill**](https://github.com/gabek96/Cy-Hill/) | Interactive web experience |
 | [**Time Counter**](https://github.com/gabek96/CPR-E-281-Final-Project) | Digital logic implementation |
-
+| [**GEP (Gabe's Event Planner)**](https://github.com/gabek96/calendar-converter) |React application.|
 ---
 
 ## 🎵 What I'm Listening To
