@@ -2,7 +2,7 @@
 
 ### Senior Software Engineering Student @ Iowa State University | May 2026 🎓
 Building production web apps, leading NSBE programs, and exploring AR/VR tech at the Student Innovation Center.
-## 📫 Let's Connect!
+## Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-kiveu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -14,14 +14,12 @@ Building production web apps, leading NSBE programs, and exploring AR/VR tech at
 
 ---
 
-## 🚀 What I'm Up To
-- 🔨 **VR Lab Monitor & Web Developer** at ISU Student Innovation Center (serving 300+ users)
-- 👔 **NSBE Program Chair** at chapter & zone levels - coordinating events, mentorship programs, and NSBE Week
-- 🍽️ Building **Dinder** for my senior design project - a group dining app for users with dietary restrictions
-- 🎨 Developing Making 101 workshop curricula for game dev, graphic design, and 3D scanning
+##  What I'm Up To
+-  **VR Lab Monitor & Web Developer** at ISU Student Innovation Center (serving 6000+ users)
+-  **NSBE Program Chair** at chapter & zone levels - coordinating events, mentorship programs, and NSBE Week
 
 ## 💡 Currently Exploring
-Customer problem analysis in event planning | AR/VR systems | Cloud architecture | Systems programming
+AR/VR systems | Cloud architecture | Systems programming
 
 ---
 
