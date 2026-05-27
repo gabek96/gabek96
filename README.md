@@ -13,11 +13,6 @@ Building production web apps, leading NSBE programs, and exploring AR/VR tech at
 </p>
 
 ---
-
-##  What I'm Up To
--  **VR Lab Monitor & Web Developer** at ISU Student Innovation Center (serving 6000+ users)
--  **NSBE Program Chair** at chapter & zone levels - coordinating events, mentorship programs, and NSBE Week
-
 ## 💡 Currently Exploring
 AR/VR systems | Cloud architecture | Systems programming
 
