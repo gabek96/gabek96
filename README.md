@@ -1,6 +1,6 @@
 # Hi! I'm Gabriel Kiveu 👋
 
-### Senior Software Engineering Student @ Iowa State University | May 2026 🎓
+### Software Engineering Grad @ Iowa State University
 Building production web apps, leading NSBE programs, and exploring AR/VR tech at the Student Innovation Center.
 ## Let's Connect!
 <p align="left">
